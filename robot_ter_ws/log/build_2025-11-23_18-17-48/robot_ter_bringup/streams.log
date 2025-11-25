@@ -1,0 +1,36 @@
+[1.179s] Invoking command in '/home/mostafa/www/robot-ter/robot_ter_ws/src/robot_ter_bringup': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mostafa/www/robot-ter/robot_ter_ws/build/robot_ter_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mostafa/www/robot-ter/robot_ter_ws/install/robot_ter_bringup/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/robot_ter_bringup build --build-base /home/mostafa/www/robot-ter/robot_ter_ws/build/robot_ter_bringup/build install --record /home/mostafa/www/robot-ter/robot_ter_ws/build/robot_ter_bringup/install.log --single-version-externally-managed install_data
+[1.529s] running egg_info
+[1.529s] creating ../../build/robot_ter_bringup/robot_ter_bringup.egg-info
+[1.554s] writing ../../build/robot_ter_bringup/robot_ter_bringup.egg-info/PKG-INFO
+[1.554s] writing dependency_links to ../../build/robot_ter_bringup/robot_ter_bringup.egg-info/dependency_links.txt
+[1.554s] writing requirements to ../../build/robot_ter_bringup/robot_ter_bringup.egg-info/requires.txt
+[1.554s] writing top-level names to ../../build/robot_ter_bringup/robot_ter_bringup.egg-info/top_level.txt
+[1.555s] writing manifest file '../../build/robot_ter_bringup/robot_ter_bringup.egg-info/SOURCES.txt'
+[1.603s] reading manifest file '../../build/robot_ter_bringup/robot_ter_bringup.egg-info/SOURCES.txt'
+[1.603s] writing manifest file '../../build/robot_ter_bringup/robot_ter_bringup.egg-info/SOURCES.txt'
+[1.604s] running build
+[1.604s] running build_py
+[1.604s] creating /home/mostafa/www/robot-ter/robot_ter_ws/build/robot_ter_bringup/build
+[1.604s] creating /home/mostafa/www/robot-ter/robot_ter_ws/build/robot_ter_bringup/build/lib
+[1.604s] creating /home/mostafa/www/robot-ter/robot_ter_ws/build/robot_ter_bringup/build/lib/robot_ter_bringup
+[1.604s] copying robot_ter_bringup/__init__.py -> /home/mostafa/www/robot-ter/robot_ter_ws/build/robot_ter_bringup/build/lib/robot_ter_bringup
+[1.604s] running install
+[1.612s] running install_lib
+[1.635s] creating /home/mostafa/www/robot-ter/robot_ter_ws/install/robot_ter_bringup/lib/python3.12/site-packages/robot_ter_bringup
+[1.635s] copying /home/mostafa/www/robot-ter/robot_ter_ws/build/robot_ter_bringup/build/lib/robot_ter_bringup/__init__.py -> /home/mostafa/www/robot-ter/robot_ter_ws/install/robot_ter_bringup/lib/python3.12/site-packages/robot_ter_bringup
+[1.636s] byte-compiling /home/mostafa/www/robot-ter/robot_ter_ws/install/robot_ter_bringup/lib/python3.12/site-packages/robot_ter_bringup/__init__.py to __init__.cpython-312.pyc
+[1.636s] running install_data
+[1.636s] creating /home/mostafa/www/robot-ter/robot_ter_ws/install/robot_ter_bringup/share/ament_index
+[1.636s] creating /home/mostafa/www/robot-ter/robot_ter_ws/install/robot_ter_bringup/share/ament_index/resource_index
+[1.636s] creating /home/mostafa/www/robot-ter/robot_ter_ws/install/robot_ter_bringup/share/ament_index/resource_index/packages
+[1.637s] copying resource/robot_ter_bringup -> /home/mostafa/www/robot-ter/robot_ter_ws/install/robot_ter_bringup/share/ament_index/resource_index/packages
+[1.637s] copying package.xml -> /home/mostafa/www/robot-ter/robot_ter_ws/install/robot_ter_bringup/share/robot_ter_bringup
+[1.637s] creating /home/mostafa/www/robot-ter/robot_ter_ws/install/robot_ter_bringup/share/robot_ter_bringup/launch
+[1.637s] copying launch/custom_world.launch.py -> /home/mostafa/www/robot-ter/robot_ter_ws/install/robot_ter_bringup/share/robot_ter_bringup/launch
+[1.637s] creating /home/mostafa/www/robot-ter/robot_ter_ws/install/robot_ter_bringup/share/robot_ter_bringup/worlds
+[1.637s] copying worlds/robot_ter_city.world -> /home/mostafa/www/robot-ter/robot_ter_ws/install/robot_ter_bringup/share/robot_ter_bringup/worlds
+[1.637s] running install_egg_info
+[1.662s] Copying ../../build/robot_ter_bringup/robot_ter_bringup.egg-info to /home/mostafa/www/robot-ter/robot_ter_ws/install/robot_ter_bringup/lib/python3.12/site-packages/robot_ter_bringup-0.1.0-py3.12.egg-info
+[1.663s] running install_scripts
+[1.819s] writing list of installed files to '/home/mostafa/www/robot-ter/robot_ter_ws/build/robot_ter_bringup/install.log'
+[1.860s] Invoked command in '/home/mostafa/www/robot-ter/robot_ter_ws/src/robot_ter_bringup' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mostafa/www/robot-ter/robot_ter_ws/build/robot_ter_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mostafa/www/robot-ter/robot_ter_ws/install/robot_ter_bringup/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/robot_ter_bringup build --build-base /home/mostafa/www/robot-ter/robot_ter_ws/build/robot_ter_bringup/build install --record /home/mostafa/www/robot-ter/robot_ter_ws/build/robot_ter_bringup/install.log --single-version-externally-managed install_data

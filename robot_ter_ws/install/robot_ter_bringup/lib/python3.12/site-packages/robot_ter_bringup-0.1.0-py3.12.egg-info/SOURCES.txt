@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+../../build/robot_ter_bringup/robot_ter_bringup.egg-info/PKG-INFO
+../../build/robot_ter_bringup/robot_ter_bringup.egg-info/SOURCES.txt
+../../build/robot_ter_bringup/robot_ter_bringup.egg-info/dependency_links.txt
+../../build/robot_ter_bringup/robot_ter_bringup.egg-info/requires.txt
+../../build/robot_ter_bringup/robot_ter_bringup.egg-info/top_level.txt
+../../build/robot_ter_bringup/robot_ter_bringup.egg-info/zip-safe
+launch/custom_world.launch.py
+resource/robot_ter_bringup
+robot_ter_bringup/__init__.py
+worlds/robot_ter_city.world

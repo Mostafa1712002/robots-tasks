@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: robot-ter-bringup
+Version: 0.1.0
+Summary: Custom Gazebo world & TurtleBot3 simulation bringup for Task 1.
+Maintainer: Mostafa
+Maintainer-email: mostafa@example.com
+License: MIT
